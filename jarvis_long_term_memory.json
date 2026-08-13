@@ -1,11 +1,72 @@
-{
-  "emotional_baseline": {},
-  "interaction_history": [
-    {
-      "session_date": "2025-10-24T12:33:39.702446",
-      "conversation_count": 2,
-      "dominant_emotion": "neutral",
-      "engagement_quality": 8.5
-    }
-  ]
-}
+[
+  {
+    "role": "user",
+    "text": "Tell me a joke",
+    "timestamp": "2026-08-12 19:11:55"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Fallback] Processing query: \"Tell me a joke\". Configure GEMINI_API_KEY for live AI processing.",
+    "timestamp": "2026-08-12 19:11:55"
+  },
+  {
+    "role": "user",
+    "text": "Hello JARVIS",
+    "timestamp": "2026-08-12 19:11:55"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Fallback] Processing query: \"Hello JARVIS\". Configure GEMINI_API_KEY for live AI processing.",
+    "timestamp": "2026-08-12 19:11:55"
+  },
+  {
+    "role": "user",
+    "text": "Tell me a joke",
+    "timestamp": "2026-08-12 19:15:40"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Tell me a joke\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-12 19:15:41"
+  },
+  {
+    "role": "user",
+    "text": "Hello JARVIS",
+    "timestamp": "2026-08-12 19:15:41"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Hello JARVIS\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-12 19:15:41"
+  },
+  {
+    "role": "user",
+    "text": "Analyze basketball player pose keypoints and biomechanics during jump shot.",
+    "timestamp": "2026-08-13 08:14:10"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Analyze basketball player pose keypoints and biomechanics during jump shot.\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-13 08:14:10"
+  },
+  {
+    "role": "user",
+    "text": "Analyze basketball player pose keypoints and biomechanics during jump shot.",
+    "timestamp": "2026-08-13 08:15:26"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Analyze basketball player pose keypoints and biomechanics during jump shot.\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-13 08:15:26"
+  },
+  {
+    "role": "user",
+    "text": "Analyze basketball player pose keypoints and biomechanics during jump shot.",
+    "timestamp": "2026-08-13 08:16:50"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Analyze basketball player pose keypoints and biomechanics during jump shot.\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-13 08:16:50"
+  }
+]
