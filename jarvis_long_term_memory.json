@@ -88,5 +88,25 @@
     "role": "assistant",
     "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Hello JARVIS\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
     "timestamp": "2026-08-17 12:33:17"
+  },
+  {
+    "role": "user",
+    "text": "Tell me a joke",
+    "timestamp": "2026-08-17 13:30:59"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Tell me a joke\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-17 13:30:59"
+  },
+  {
+    "role": "user",
+    "text": "Hello JARVIS",
+    "timestamp": "2026-08-17 13:30:59"
+  },
+  {
+    "role": "assistant",
+    "text": "[J.A.R.V.I.S. Neural Fallback] Query: \"Hello JARVIS\". Retrieved 10 facts from Brain DB. Configure GEMINI_API_KEY for live AI.",
+    "timestamp": "2026-08-17 13:30:59"
   }
 ]
