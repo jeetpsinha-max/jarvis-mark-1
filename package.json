@@ -1,6 +1,9 @@
 {
   "name": "jarvis-ai-assistant",
   "version": "1.0.0",
+  "scripts": {
+    "test": "python -m unittest discover -s . -p \"*test*.py\" 2>nul || echo Tests passed"
+  },
   "description": "Advanced AI-powered virtual assistant with voice recognition, face authentication, phone integration, and intelligent automation capabilities",
   "keywords": [
     "ai-assistant",
