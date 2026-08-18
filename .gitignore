@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
 *.so
 
-# Packaging
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -18,11 +20,13 @@ parts/
 sdist/
 var/
 wheels/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
-# Tests & Cache
+# Unit test / coverage reports
 htmlcov/
 .tox/
 .nox/
@@ -32,6 +36,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*.py,cover
 .hypothesis/
 .pytest_cache/
 
@@ -42,7 +47,7 @@ env/
 venv/
 ENV/
 
-# IDE & OS
+# IDE & OS files
 .vscode/
 .idea/
 *.swp
